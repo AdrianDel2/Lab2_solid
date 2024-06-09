@@ -64,7 +64,7 @@ Haga CRTL + CLIC: Tercer reporte HE HyunSeda.xlsx
 ### Prototipos de interfaces
 A continuación se presentan algunos prototipos de las interfaces del software.
 
-**Imagen 1. Prototipo de la interfaz del menú del producto. Elaboración propia.**
+**![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen1.png)Imagen 1. Prototipo de la interfaz del menú del producto. Elaboración propia.**
 
 **Imagen 2. Prototipo de la interfaz agregar producto. Elaboración propia.**
 
