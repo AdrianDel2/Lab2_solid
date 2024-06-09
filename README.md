@@ -38,21 +38,23 @@ Haga CRTL + CLIC: Tercer reporte HE HyunSeda.xlsx
 ### Prototipos de interfaces
 A continuación se presentan algunos prototipos de las interfaces del software.
 
-![Imagen 1. Prototipo de la interfaz del menú del producto. Elaboración propia.](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen1.png)
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen1.png)
+>Imagen 1. Prototipo de la interfaz del menú del producto. Elaboración propia.
 
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen2.png)
 >Imagen 2. Prototipo de la interfaz agregar producto. Elaboración propia.
 
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen3.png)
 >Imagen 3. Prototipo de la interfaz de la tienda Hyun Seda. Elaboración propia.
 
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen4.png)
 >Imagen 4. Prototipo de la interfaz buscar producto. Elaboración propia.
 
 ### Test de usabilidad
 A continuación se presenta el prototipo de la vista previa de los productos de la tienda como tal:
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen5.png)
 >Imagen5.Prototipo visualizacion tienda
+
 Y aquí se adjuntan los enlaces a los videos donde se hace la prueba de usabilidad:
 - Haga CLIC + CTRL: video1.mp4
 - Haga CLIC + CTRL: video2.mp4
