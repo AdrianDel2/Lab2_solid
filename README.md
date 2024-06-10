@@ -127,13 +127,13 @@ Para cada uno de los anteriores atributos de calidad se planteó un escenario de
 ---
 
 ## Diagrama Entidad Relación
-(Se muestra un diagrama E-R con las tablas y sus relaciones correspondientes).
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen7.png)
 >Imagen 7. Diagrama entidad relación del microservicio de producto. Elaboración propia.
 
-asdsadsadsad
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen7.1.png)
 >Imagen 7.1. Diagrama entidad relación del microservicio de usuario. Elaboración propia.
 
-czczxczxcxz
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen7.2.png)
 >Imagen 7.2. Diagrama entidad relación del microservicio de item. Elaboración propia.
 
 
