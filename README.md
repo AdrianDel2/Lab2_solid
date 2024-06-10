@@ -29,7 +29,6 @@ En este contexto, se propone el diseño e implementación de un sistema propio q
 ## Requisitos Funcionales
 Se hace referencia a la hoja de cálculo de HistoriasEpicas HyunSeda de la plantilla de historias de usuario.
 
-Haga CRTL + CLIC: Tercer reporte HE HyunSeda.xlsx
 [Descargar Tercer reporte HE HyunSeda.xlsx](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/Tercer%20reporte%20HE%20HyunSeda.xlsx)
 
 ---
@@ -57,8 +56,10 @@ A continuación se presenta el prototipo de la vista previa de los productos de 
 >Imagen5.Prototipo visualizacion tienda
 
 Y aquí se adjuntan los enlaces a los videos donde se hace la prueba de usabilidad:
-- Haga CLIC + CTRL: video1.mp4
+
+-Video 1: https://github.com/AdrianDel2/Lab2_solid/assets/159732648/95b15388-f26c-4771-9a17-d03214cd44d8
 - Haga CLIC + CTRL: video2.mp4
+
 
 ---
 ###Pruebas Unitarias
