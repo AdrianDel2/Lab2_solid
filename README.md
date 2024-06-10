@@ -30,6 +30,7 @@ En este contexto, se propone el diseño e implementación de un sistema propio q
 Se hace referencia a la hoja de cálculo de HistoriasEpicas HyunSeda de la plantilla de historias de usuario.
 
 Haga CRTL + CLIC: Tercer reporte HE HyunSeda.xlsx
+[Descargar Tercer reporte HE HyunSeda.xlsx](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/Tercer%20reporte%20HE%20HyunSeda.xlsx)
 
 ---
 
