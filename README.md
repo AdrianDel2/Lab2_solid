@@ -58,8 +58,7 @@ A continuación se presenta el prototipo de la vista previa de los productos de 
 Y aquí se adjuntan los enlaces a los videos donde se hace la prueba de usabilidad:
 
 - Video 1: https://github.com/AdrianDel2/Lab2_solid/assets/159732648/95b15388-f26c-4771-9a17-d03214cd44d8
-- Haga CLIC + CTRL: video2.mp4
-
+- Video 2: https://github.com/AdrianDel2/Lab2_solid/assets/159732648/02d829cd-1950-49c0-b78d-3c4aaf9f9f25
 
 ---
 ###Pruebas Unitarias
