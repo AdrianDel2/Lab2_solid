@@ -234,4 +234,4 @@ En resumen, la implementación actual de una aplicación de escritorio represent
 ---
 
 ## URL del repositorio de GitHub
-[GitHub Repository](https://github.com/HyunSeda/ecommerce)
+[Demo_APP](https://www.youtube.com/watch?v=baot7ztkntA)
