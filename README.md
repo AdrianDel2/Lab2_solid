@@ -233,5 +233,5 @@ En resumen, la implementación actual de una aplicación de escritorio represent
 
 ---
 
-## URL del repositorio de GitHub
+## Demo del funcionamiento de la aplicacion
 [Demo_APP](https://www.youtube.com/watch?v=baot7ztkntA)
