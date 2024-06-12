@@ -143,16 +143,16 @@ Para cada uno de los anteriores atributos de calidad se planteó un escenario de
 
 ### Modelo C4
 
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen8.png)
 >Imagen 8. Diagrama de contexto del modelo C4. Elaboración propia.
 
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen9.png)
 >Imagen 9. Diagrama de contenedores del modelo C4. Elaboración propia.
 
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen10.png)
 >Imagen 10. Diagrama de componentes del modelo C4. Elaboración propia.
 
-![]()
+![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen11.png)
 >Imagen 11. Diagrama de clases del microservicio de pago. Elaboración propia
 
 
