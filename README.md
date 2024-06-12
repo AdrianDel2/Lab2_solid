@@ -143,16 +143,16 @@ Para cada uno de los anteriores atributos de calidad se planteó un escenario de
 
 ### Modelo C4
 
-![]
+![]()
 >Imagen 8. Diagrama de contexto del modelo C4. Elaboración propia.
 
-![]
+![]()
 >Imagen 9. Diagrama de contenedores del modelo C4. Elaboración propia.
 
-![]
+![]()
 >Imagen 10. Diagrama de componentes del modelo C4. Elaboración propia.
 
-![]
+![]()
 >Imagen 11. Diagrama de clases del microservicio de pago. Elaboración propia
 
 
